@@ -11,3 +11,4 @@ Buildroot for Lichee Pi Zero hello project
 * https://www.kancloud.cn/lichee/lpi0/343677  
 * https://steward-fu.github.io/website/mcu/lichee-zero/led_gpio.htm  
 * https://github.com/www220/v3s-lichee-zero/tree/master  
+* https://github.com/liu2guang/bsp_v3s  
