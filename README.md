@@ -8,3 +8,4 @@ Buildroot for Lichee Pi Zero hello project
 * https://whycan.cn/t_1842_2.html  
 * https://www.electrodragon.com/w/Lichee_Pi  
 * http://zero.lichee.pro/驱动/GPIO_mmap.html  
+* https://www.kancloud.cn/lichee/lpi0/343677  
