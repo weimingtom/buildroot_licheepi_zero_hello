@@ -13,3 +13,4 @@ Buildroot for Lichee Pi Zero hello project
 * https://github.com/www220/v3s-lichee-zero/tree/master  
 * https://github.com/liu2guang/bsp_v3s  
 * https://github.com/mixtile/sunxi-gpio  
+* https://github.com/ld3003/v3ssdk-app/blob/master/gpio/main.c  
