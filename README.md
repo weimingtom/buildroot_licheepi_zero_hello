@@ -15,3 +15,5 @@ Buildroot for Lichee Pi Zero hello project
 * https://github.com/mixtile/sunxi-gpio  
 * https://github.com/ld3003/v3ssdk-app/blob/master/gpio/main.c  
 * https://github.com/yuliang8/V3S_OV2640_RTMP  
+* https://aboutme.louislabs.com/project-details/allwinner-v3s-tryout/  
+* https://github.com/louiscklaw  
