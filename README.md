@@ -17,3 +17,5 @@ Buildroot for Lichee Pi Zero hello project
 * https://github.com/yuliang8/V3S_OV2640_RTMP  
 * https://aboutme.louislabs.com/project-details/allwinner-v3s-tryout/  
 * https://github.com/louiscklaw  
+* V3s录音 交叉编译alsa linux  
+https://blog.csdn.net/weixin_30301183/article/details/98466667  
