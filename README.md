@@ -14,7 +14,10 @@ Buildroot for Lichee Pi Zero hello project
 * https://github.com/liu2guang/bsp_v3s  
 * https://github.com/mixtile/sunxi-gpio  
 * https://github.com/ld3003/v3ssdk-app/blob/master/gpio/main.c  
+演示gpio的用法  
 * https://github.com/yuliang8/V3S_OV2640_RTMP  
+全志v3s摄像头直播的项目  
+搜索gitee我的私有项目，关键词v3s  
 * https://aboutme.louislabs.com/project-details/allwinner-v3s-tryout/  
 * https://github.com/louiscklaw  
 * V3s录音 交叉编译alsa linux  
