@@ -20,3 +20,4 @@ Buildroot for Lichee Pi Zero hello project
 * V3s录音 交叉编译alsa linux  
 https://blog.csdn.net/weixin_30301183/article/details/98466667  
 * https://github.com/diyjack/Allwinner-V3s-Dev-Board/blob/master/Hardware/Schematic%20Lichee%20pi%20zero/lichee0_base.pdf  
+* https://www.kancloud.cn/lichee/lpi0  
