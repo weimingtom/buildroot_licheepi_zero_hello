@@ -1,5 +1,5 @@
 # buildroot_licheepi_zero_hello
-Buildroot for Lichee Pi Zero hello project
+Buildroot for Lichee Pi Zero (v3s) hello project  
 
 ## Ref  
 * https://licheepizero.us  
